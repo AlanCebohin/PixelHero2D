@@ -13,6 +13,6 @@ It's purpose is to follow good practices and quicly prototype game mechanics.
 
 ## Overview
 
-<img src="![pixelHeroGif1](https://github.com/AlanCebohin/PixelHero2D/assets/gifs/PixelHeroGif1)" width="40" height="40" />
-<img src="![pixelHeroGif2](https://github.com/AlanCebohin/PixelHero2D/assets/gifs/PixelHeroGif2)" width="40" height="40" />
-<img src="![pixelHeroGif3](https://github.com/AlanCebohin/PixelHero2D/assets/gifs/PixelHeroGif3)" width="40" height="40" />
+<img src="https://github.com/AlanCebohin/PixelHero2D/tree/main/Assets/Gifs/PixelHeroGif1)" width="40" height="40" />
+<img src="https://github.com/AlanCebohin/PixelHero2D/tree/main/Assets/Gifs/PixelHeroGif2)" width="40" height="40" />
+<img src="https://github.com/AlanCebohin/PixelHero2D/tree/main/Assets/Gifs/PixelHeroGif3)" width="40" height="40" />
