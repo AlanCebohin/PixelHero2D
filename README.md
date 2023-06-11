@@ -13,6 +13,6 @@ It's purpose is to follow good practices and quicly prototype game mechanics.
 
 ## Overview
 
-<img src="/Assets/Gifs/pixelHeroGif1)" width="40" height="40" />
-<img src="/Assets/Gifs/pixelHeroGif2)" width="40" height="40" />
-<img src="/Assets/Gifs/pixelHeroGif3)" width="40" height="40" />
+<img src="/Assets/Gifs/pixelHeroGif1.gif" width="40" height="40" />
+<img src="/Assets/Gifs/pixelHeroGif2.gif" width="40" height="40" />
+<img src="/Assets/Gifs/pixelHeroGif3.gif" width="40" height="40" />
