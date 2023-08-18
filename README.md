@@ -9,7 +9,7 @@
 ## About the game
 <strong> Pixel Hero </strong> is a prototype for a side scroller 2D game made in Unity.
 
-It's purpose is to follow good practices and quicly prototype game mechanics.
+Its purpose is to follow good practices and quickly prototype game mechanics.
 
 ## Overview
 
